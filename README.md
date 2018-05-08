@@ -1,0 +1,1 @@
+Proste działania na obrazach
