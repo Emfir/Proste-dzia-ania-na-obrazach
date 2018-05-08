@@ -12,7 +12,7 @@ Program wczytuje wybrane przez urzytkownika obrazy i jest wstanie poddać je nas
 - dodawanie obrazów do siebie
 - mnożenie obrazów przez siebie (i tym samym mnożenie przez maskę)
 
-# Przykład działaia
+# Przykład działania
 
 pierwsze okno w którym należy wybrać obraz:
 
