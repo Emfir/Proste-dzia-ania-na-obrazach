@@ -1,6 +1,6 @@
 # Działania na obrazach
 
-Program wczytuje wybrane przez urzytkownika obrazy i jest wstanie poddać je nastupującym operacją:
+Program wczytuje wybrany przez użytkownika obraz, wyświetla jego histogram,  i jest wstanie poddać go następującym operacją:
 - dodawanie stałej (zmiana jasności)
 - mnożenie przez stałą (zmiana kontrastu)
 - podnoszenie do potęgi (korekcja gamma)
